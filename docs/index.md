@@ -1,35 +1,33 @@
 
-# Automate Cisco ACI tasks with ServiceNow, Jenkins and Ansible
+## Automate Cisco ACI tasks with ServiceNow, Jenkins and Ansible
 
-```
-In this project we build ServiceNow catalog to make configuration-requests to Cisco APICs
 
-- ServiceNow is popular commercial software for management of "incident, problem, and change" IT operational events 
-  https://en.wikipedia.org/wiki/ServiceNow
+#### In this project we build ServiceNow catalog to make configuration-requests to Cisco APICs
 
-- Jenkins is open source automation server and here we use it to orchestrate Ansible-playbooks
-  https://www.jenkins.io/
-```
+- [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow) is popular commercial software for management of "incident, problem, and change" IT operational events 
+  
+- [Jenkins](https://www.jenkins.io/) is open source automation server and here we use it to orchestrate Ansible-playbooks
+  
+- [Cisco ACI](https://learningnetwork.cisco.com/s/article/what-is-cisco-aci-x) is SDN network for datacenters
 
-## Jenkins
-```
+### Jenkins
+<div>
 Jenkins installation is needed to run Ansible playbooks.
 Server with access from Internet is needed for this.
+</div>
 
-```
-
-## ServiceNow Developer
-```
+### ServiceNow Developer
+<div>
 You can register free Developer instance to get started with ServiceNow (Snow).
 Basic understanding of Snow is needed and if you start from scratch, you should take some of excellent lessons from Snow-portal.
 
 I will build all examples with Studio and upload needed files to Github.
+</div>
 
-```
 
-## Cisco ACI LAB
-```
-Cisco provides open lab-environment for tests.
+### Cisco ACI LAB
+<div>
+Cisco provides [lab-environment](https://developer.cisco.com/site/sandbox/) for testing and training.
 All created configuration is removed daily, but it's nice place to test your code.
+</div>
 
-```
