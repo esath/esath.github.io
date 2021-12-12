@@ -15,7 +15,7 @@
 Jenkins installation is needed to run Ansible playbooks.
 Server with access from Internet is needed for this.
   
-<a href= "https://github.com/esath/esath.github.io/edit/newsite/docs/jenkins.md">How to install Jenkins to AWS-instance with Ubuntu&Docker</a>
+<a href= "https://esath.github.io/jenkins.html">How to install Jenkins to AWS-instance with Ubuntu&Docker</a>
   
 </div>
 
