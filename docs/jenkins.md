@@ -10,5 +10,21 @@ jenkins@67a2abc12337:/$ more /var/jenkins_home/secrets/initialAdminPassword
 a3e3fefefef64546858001111efefefe4b6c91
 
 Login to container as root if needed:
-$ docker exec -it -u root jenkins2 bash
+$ docker exec -it -u root jenkins bash
+```
+
+#### Upgrade Jenkins in Docker:
+```
+$ sudo docker exec -u 0 -it jenkin bash
+
+root@12a2abd12345:/# cd /usr/share/jenkins
+root@12a2abd12345:/# service jenkins stop
+root@12a2abd12345:/# mv jenkins.war jenkins_backup.war
+root@12a2abd12345:/# wget https://updates.jenkins.io/download/war/2.324/jenkins.war
+root@12a2abd12345:/# service jenkins start
+
+DONE!
+Note: Use latest download-link for jenkins.war.
+You can get link from Jenkins-GUI > New version notification.
+
 ```
