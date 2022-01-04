@@ -21,7 +21,7 @@
 
 ### ServiceNow Developer
 >
->You can register free Developer instance to get started with ServiceNow (Snow).
+>You can register <a href= "https://developer.servicenow.com/">free Developer instance</a> to get started with ServiceNow (Snow).
 >Basic understanding of Snow is needed and if you start from scratch, you should take some of excellent lessons from Snow-portal.
 >
 >I will build all examples with Studio and upload needed files to Github.
