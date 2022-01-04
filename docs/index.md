@@ -18,7 +18,7 @@ Server with access from Internet is needed for this.
   
 <a href= "https://esath.github.io/jenkins.html">How to install Jenkins to AWS-instance with Ubuntu&Docker</a>
   
-</div><br>
+</div>
 
 ### ServiceNow Developer
 <div>
@@ -26,12 +26,12 @@ You can register free Developer instance to get started with ServiceNow (Snow).
 Basic understanding of Snow is needed and if you start from scratch, you should take some of excellent lessons from Snow-portal.
 
 I will build all examples with Studio and upload needed files to Github.
-</div><br>
+</div>
 
 ### Cisco ACI LAB
 <div>
 Cisco provides <a href="https://developer.cisco.com/site/sandbox"> lab-environment</a> for testing and training.
 All created configuration is removed daily, but it's nice place to test your code.
   
-</div><br>
+</div>
 
