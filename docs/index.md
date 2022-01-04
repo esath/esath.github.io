@@ -4,13 +4,13 @@
 
 #### In this project we build ServiceNow catalog to make configuration-requests to Cisco APICs
 
-* [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow) is popular commercial software for management of "incident, problem, and change" IT operational events 
-  
-* [Jenkins](https://www.jenkins.io/) is open source automation server and here we use it to orchestrate Ansible-playbooks
-  
-* [Cisco ACI](https://learningnetwork.cisco.com/s/article/what-is-cisco-aci-x) is SDN network for datacenters
+> [ServiceNow](https://en.wikipedia.org/wiki/ServiceNow) is popular commercial software for management of "incident, problem, and change" IT operational events 
+>  
+> [Jenkins](https://www.jenkins.io/) is open source automation server and here we use it to orchestrate Ansible-playbooks
+> 
+> [Cisco ACI](https://learningnetwork.cisco.com/s/article/what-is-cisco-aci-x) is SDN network for datacenters
 
->
+
 ### Jenkins
 <div>
 Jenkins installation is needed to run Ansible playbooks.
@@ -34,4 +34,4 @@ Cisco provides <a href="https://developer.cisco.com/site/sandbox"> lab-environme
 All created configuration is removed daily, but it's nice place to test your code.
   
 </div>
-
+>
