@@ -1,7 +1,7 @@
 
 ## Projects:  
 
-### <a href="https://esath.github.io/snow1/index2.html">Automate Cisco ACI tasks with ServiceNow, Jenkins and Ansible</a>
+### <a href="https://esath.github.io/snow1/index.html">Automate Cisco ACI tasks with ServiceNow, Jenkins and Ansible</a>
 
 Project notes done for myself. Anyone who finds this is free to use in their own projects.  
 I'll try to keep everything updated.  
