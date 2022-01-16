@@ -16,7 +16,7 @@
 >Jenkins installation is needed to run Ansible playbooks.
 >Server with access from Internet is needed for this.
 >  
-><a href= "https://esath.github.io/jenkins.html">How to install Jenkins to AWS-instance with Ubuntu&Docker</a>
+><a href= "https://esath.github.io/snow1/jenkins.html">How to install Jenkins to AWS-instance with Ubuntu&Docker</a>
 >  
 
 ### ServiceNow Developer
@@ -25,7 +25,7 @@
 >Basic understanding of Snow is needed and if you start from scratch, you should take some of excellent lessons from Snow-portal.
 >
 >I will build all examples with Studio.
-><a href= "https://esath.github.io/snow.html">Working with Servicenow</a>
+><a href= "https://esath.github.io/snow1/snow.html">Working with Servicenow</a>
 
 ### Cisco ACI LAB
 >
